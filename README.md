@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexi Rodriguez</h1>
 <h3 align="center">A passionate developer with an insatiable thirst for knowledge </h3>
+<p>I am a systems engineering student and I work as technical support for a public education company</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
